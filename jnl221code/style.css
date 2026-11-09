@@ -1,0 +1,19 @@
+h1 {
+  color: pink;
+}
+
+body {
+  background-color:aliceblue;
+  margin-left: 35px;
+  margin-right: 35px;
+}
+
+img {
+  width: 10 px;
+  height: auto;
+}
+
+p {
+  color:rgb(0, 0, 0);
+  background-color:rgb(242, 249, 249)
+}
